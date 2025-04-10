@@ -11,11 +11,11 @@ A simple AI-powered chatbot built with Node.js and Express, leveraging the Googl
 
 ## 📁 Project Structure
 
-├── index.js # Entry point of the chatbot server
-├── package.json # Project dependencies and scripts
-├── pnpm-lock.yaml # Dependency lock file
-├── node_modules # Installed packages (linked by pnpm)
-└── README.md # Project documentation
+├── index.js # Entry point of the chatbot server <br>
+├── package.json # Project dependencies and scripts <br>
+├── pnpm-lock.yaml # Dependency lock file <br>
+├── node_modules # Installed packages (linked by pnpm) <br>
+└── README.md # Project documentation <br>
 
 ## 🛠️ Installation
 
@@ -32,4 +32,4 @@ pnpm install
 - @google/genai
 - pnpm
 
-# Made with 🩶 by Satyam
+### Made with 🩶 by Satyam
